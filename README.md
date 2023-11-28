@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RosaLeaveMeAlone
-- 👀 I’m interested in PHP,JS, WebDevelopment
-- 🌱 I’m currently learning Angular, ReactJs
+- 👀 I’m interested in PHP,JS, WebDevelopment, Devops
+- 🌱 I’m currently learning Svelte, Kubernetes
 - 💞️ I’m looking to collaborate on ????
-- 📫 How to reach me Joeluzcategui@protonmail.com
+- 📫 How to reach me Joeluzcategui102@gmail.com | Joeluzcategui@protonmail.com
 
 <!---
 RosaLeaveMeAlone/RosaLeaveMeAlone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
