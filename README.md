@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RosaLeaveMeAlone
 - 👀 I’m interested in PHP,JS, WebDevelopment, Devops
 - 🌱 I’m currently learning Svelte, Kubernetes
-- 💞️ I’m looking to collaborate on ????
+- 💞️ I’m looking to collaborate on some project where I can use AWS
 - 📫 How to reach me Joeluzcategui102@gmail.com | Joeluzcategui@protonmail.com
 
 <!---
